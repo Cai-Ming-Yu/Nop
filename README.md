@@ -10,3 +10,5 @@ ld -o <file name> <file name>.o <-shared>
 strip <file name>
 ```
 Then you can get a very small file that is useless.
+
+## [License](https://github.com/Cai-Ming-Yu/Nop/blob/C-M-Y/LICENSE)
